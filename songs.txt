@@ -1,0 +1,10 @@
+1,Pineapple,ABC,3,Pop,False,0
+2,MAngo,DEF,5,Classic,False,0
+3,Orange,GHI,3,Pop,False,0
+4,apple,JKL,8,Pop,False,0
+5,carrot,MNOP,4,Classic,False,0
+1,Pineapple,ABC,3,Pop,False,0
+2,MAngo,DEF,5,Classic,False,0
+3,Orange,GHI,3,Pop,False,0
+4,apple,JKL,8,Pop,False,0
+5,carrot,MNOP,4,Classic,False,0
